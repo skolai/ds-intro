@@ -1,2 +1,2 @@
 # Ignore all jupyter checkpoints.
-*.ipynb
+.ipynb*
